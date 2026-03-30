@@ -1,16 +1,16 @@
 # Car-Insurance-Claim-Report
 
-1. Overview
+## Overview
 
->The Car Insurance & Claim Report Dashboard is an interactive Power BI report designed to analyze insurance policies, claim amounts, and customer demographics. It provides actionable insights for better decision-making in the insurance domain.
+#### The Car Insurance & Claim Report Dashboard is an interactive Power BI report designed to analyze insurance policies, claim amounts, and customer demographics. It provides actionable insights for better decision-making in the insurance domain.
 
-2.Features
+## 2.Features
 
->> KPI Cards:
->Total Policies
->Total Claim Amount
->Claim Frequency
->Average Claim Amount
+### KPI Cards:
+#### 1.Total Policies
+#### 2.Total Claim Amount
+#### 3.Claim Frequency
+#### 4.Average Claim Amount
 
 >>Interactive Slicers:
 >Marital Status
